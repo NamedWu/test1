@@ -1,0 +1,1775 @@
+{
+  "uid" : "ab17fc5a4eb3bca4b216b548c7f9fcbc",
+  "name" : "timeline",
+  "children" : [ {
+    "name" : "xiaotaozidembp",
+    "children" : [ {
+      "name" : "11399-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "1c062fc504722390",
+        "parentUid" : "0b01b0c84af0a6de720a4cbefaf05fec",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604844232192,
+          "stop" : 1604844234462,
+          "duration" : 2270
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "4fc0920a0dfb0578",
+        "parentUid" : "0b01b0c84af0a6de720a4cbefaf05fec",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604844142840,
+          "stop" : 1604844145672,
+          "duration" : 2832
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "0b01b0c84af0a6de720a4cbefaf05fec"
+    }, {
+      "name" : "19384-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "1004d85e355fe27e",
+        "parentUid" : "b549e4d402b878bea0c6594042d91366",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604924028947,
+          "stop" : 1604924028959,
+          "duration" : 12
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'browser': 'Chrome', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "6860bbe12adc7201",
+        "parentUid" : "b549e4d402b878bea0c6594042d91366",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604924120720,
+          "stop" : 1604924120722,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "b549e4d402b878bea0c6594042d91366"
+    }, {
+      "name" : "33046-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended2]",
+        "uid" : "94ef97de0ee4a683",
+        "parentUid" : "9af4e3a37716e51c22ea43c9c0930b09",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605099734423,
+          "stop" : 1605099734597,
+          "duration" : 174
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页搜索框点击', 'cases': [{'method': 'input', 'locator': '//*[@id=\"c-header\"]/div[2]/div[3]/div/input', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/div[2]/div[1]/div[1]', 'value': '外套'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "271d83f5b0b8afcd",
+        "parentUid" : "9af4e3a37716e51c22ea43c9c0930b09",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605099727070,
+          "stop" : 1605099729658,
+          "duration" : 2588
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "8d10b1e6daca6d8c",
+        "parentUid" : "9af4e3a37716e51c22ea43c9c0930b09",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605099702100,
+          "stop" : 1605099704574,
+          "duration" : 2474
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'browser': 'Chrome', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "9af4e3a37716e51c22ea43c9c0930b09"
+    }, {
+      "name" : "32890-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "eba0fc2e042f5fac",
+        "parentUid" : "94024f35cd57da6e20cce8577a58f125",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605099337652,
+          "stop" : 1605099338192,
+          "duration" : 540
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'browser': 'Chrome', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "38380b2b08dec306",
+        "parentUid" : "94024f35cd57da6e20cce8577a58f125",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605099419858,
+          "stop" : 1605099423728,
+          "duration" : 3870
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended2]",
+        "uid" : "cc86bbf8989e5c64",
+        "parentUid" : "94024f35cd57da6e20cce8577a58f125",
+        "status" : "broken",
+        "time" : {
+          "start" : 1605099512720,
+          "stop" : 1605099512722,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页搜索框点击', 'case': [{'method': 'input', 'locator': '//*[@id=\"c-header\"]/div[2]/div[3]/div/input', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/div[2]/div[1]/div[1]', 'value': '外套'}]}" ]
+      } ],
+      "uid" : "94024f35cd57da6e20cce8577a58f125"
+    }, {
+      "name" : "18793-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "c0eea98ea95888a3",
+        "parentUid" : "f68a855310eb36e1d87b682e663174d8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604922403411,
+          "stop" : 1604922403412,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "c7e8258a5a60926",
+        "parentUid" : "f68a855310eb36e1d87b682e663174d8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604922399187,
+          "stop" : 1604922399189,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'browser': 'Chrome', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "f68a855310eb36e1d87b682e663174d8"
+    }, {
+      "name" : "18907-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "2f58866318c4ecc9",
+        "parentUid" : "1e863091553799a5555bbd81232e1896",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604922560925,
+          "stop" : 1604922560936,
+          "duration" : 11
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "7c1ccd24e2330892",
+        "parentUid" : "1e863091553799a5555bbd81232e1896",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604922553712,
+          "stop" : 1604922553727,
+          "duration" : 15
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'browser': 'Chrome', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "1e863091553799a5555bbd81232e1896"
+    }, {
+      "name" : "16267-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "b92b226b46a8c9ce",
+        "parentUid" : "7f051cf99ebc45dcd7f2030c32bda592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604906213713,
+          "stop" : 1604906215554,
+          "duration" : 1841
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "3941a234ba0a5b09",
+        "parentUid" : "7f051cf99ebc45dcd7f2030c32bda592",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604906237126,
+          "stop" : 1604906238944,
+          "duration" : 1818
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "7f051cf99ebc45dcd7f2030c32bda592"
+    }, {
+      "name" : "10615-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "44f456121f206467",
+        "parentUid" : "7cf950ef31e4c207310d23283399f093",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604840916181,
+          "stop" : 1604840918445,
+          "duration" : 2264
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "6e05bbb060e2bca6",
+        "parentUid" : "7cf950ef31e4c207310d23283399f093",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604841002281,
+          "stop" : 1604841004614,
+          "duration" : 2333
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "7cf950ef31e4c207310d23283399f093"
+    }, {
+      "name" : "16370-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "a1a53c7cb5bd7ff1",
+        "parentUid" : "6f5da1832c342ce15b84182baca56eb1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604906531020,
+          "stop" : 1604906532654,
+          "duration" : 1634
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "e065a2a5fd648876",
+        "parentUid" : "6f5da1832c342ce15b84182baca56eb1",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604906356796,
+          "stop" : 1604906509673,
+          "duration" : 152877
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "6f5da1832c342ce15b84182baca56eb1"
+    }, {
+      "name" : "35146-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "f88237ab6cd75cf1",
+        "parentUid" : "6bbb341810b731ec5ae0d89fc28d6112",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605150122130,
+          "stop" : 1605150127117,
+          "duration" : 4987
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended2]",
+        "uid" : "583fedfbc8a5798c",
+        "parentUid" : "6bbb341810b731ec5ae0d89fc28d6112",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605150138914,
+          "stop" : 1605150139599,
+          "duration" : 685
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页搜索框点击', 'cases': [{'method': 'input', 'locator': '//*[@id=\"c-header\"]/div[2]/div[3]/div/input', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/div[2]/div[1]/div[1]', 'value': '外套'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "7711dd6ccfbfc7f",
+        "parentUid" : "6bbb341810b731ec5ae0d89fc28d6112",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605150109018,
+          "stop" : 1605150111211,
+          "duration" : 2193
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'browser': 'Chrome', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "6bbb341810b731ec5ae0d89fc28d6112"
+    }, {
+      "name" : "13789-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "8faa2b40d0e10e71",
+        "parentUid" : "1384a1fd7a6df3b526b6a7453555cd2f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604889415749,
+          "stop" : 1604889432348,
+          "duration" : 16599
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "86543b8afbd51231",
+        "parentUid" : "1384a1fd7a6df3b526b6a7453555cd2f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604889516905,
+          "stop" : 1604889518573,
+          "duration" : 1668
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "1384a1fd7a6df3b526b6a7453555cd2f"
+    }, {
+      "name" : "16643-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "d07cd08849c23402",
+        "parentUid" : "a20490eecebd56c62d5e3cacedaa8aa8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604906963704,
+          "stop" : 1604906966209,
+          "duration" : 2505
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "8ab449faa778e2ec",
+        "parentUid" : "a20490eecebd56c62d5e3cacedaa8aa8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604907048892,
+          "stop" : 1604907058598,
+          "duration" : 9706
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "a20490eecebd56c62d5e3cacedaa8aa8"
+    }, {
+      "name" : "10887-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "f81bc6a21e20d84",
+        "parentUid" : "ea98a19973aa85684bc31799eb8d4021",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604842463914,
+          "stop" : 1604842463914,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "7b45581b722ee04b",
+        "parentUid" : "ea98a19973aa85684bc31799eb8d4021",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604842463803,
+          "stop" : 1604842463803,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "ea98a19973aa85684bc31799eb8d4021"
+    }, {
+      "name" : "34868-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended2]",
+        "uid" : "dae1dc3d362c4d49",
+        "parentUid" : "eba0eec813e38d71374e5a837c840fc8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605149978064,
+          "stop" : 1605149979562,
+          "duration" : 1498
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页搜索框点击', 'cases': [{'method': 'input', 'locator': '//*[@id=\"c-header\"]/div[2]/div[3]/div/input', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/div[2]/div[1]/div[1]', 'value': '外套'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "892116a3a725c5cd",
+        "parentUid" : "eba0eec813e38d71374e5a837c840fc8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605149888483,
+          "stop" : 1605149892696,
+          "duration" : 4213
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "cbf6e0fcd01258c5",
+        "parentUid" : "eba0eec813e38d71374e5a837c840fc8",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605149802553,
+          "stop" : 1605149803771,
+          "duration" : 1218
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'browser': 'Chrome', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "eba0eec813e38d71374e5a837c840fc8"
+    }, {
+      "name" : "32709-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "ac91fb4cb79b817f",
+        "parentUid" : "ddf16cd6c193824ceefe378b59807103",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605098271585,
+          "stop" : 1605098272459,
+          "duration" : 874
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'browser': 'Chrome', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "48590ac3af438124",
+        "parentUid" : "ddf16cd6c193824ceefe378b59807103",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605098285342,
+          "stop" : 1605098288822,
+          "duration" : 3480
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "ddf16cd6c193824ceefe378b59807103"
+    }, {
+      "name" : "18328-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "7ff1a4442262725d",
+        "parentUid" : "ef434dbbc1232cb17e82f20a4ee5b3f8",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604922094025,
+          "stop" : 1604922094030,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'browser': 'Chrome', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "ef434dbbc1232cb17e82f20a4ee5b3f8"
+    }, {
+      "name" : "10728-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "f3f10705059b5c65",
+        "parentUid" : "085b2b1dbad8eed71a8108e524fec97a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604841407515,
+          "stop" : 1604841497433,
+          "duration" : 89918
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "197c46ffe6ccd7dd",
+        "parentUid" : "085b2b1dbad8eed71a8108e524fec97a",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604841502256,
+          "stop" : 1604841502787,
+          "duration" : 531
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "085b2b1dbad8eed71a8108e524fec97a"
+    }, {
+      "name" : "14156-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "118c86576b39b423",
+        "parentUid" : "1b1f308ae450171346ce3c07bb38b7b9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604892537884,
+          "stop" : 1604892616858,
+          "duration" : 78974
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "63050a5c2a97cbe2",
+        "parentUid" : "1b1f308ae450171346ce3c07bb38b7b9",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604892701959,
+          "stop" : 1604892704055,
+          "duration" : 2096
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "1b1f308ae450171346ce3c07bb38b7b9"
+    }, {
+      "name" : "19104-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "222d26b7780498b7",
+        "parentUid" : "5991a3875e33e2db8292dc064b6a864f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604923532061,
+          "stop" : 1604923532066,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'browser': 'Chrome', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "a86b6776b5fd00cc",
+        "parentUid" : "5991a3875e33e2db8292dc064b6a864f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604923535678,
+          "stop" : 1604923535679,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "5991a3875e33e2db8292dc064b6a864f"
+    }, {
+      "name" : "10911-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "8364cb816f7d6157",
+        "parentUid" : "2ec93b81540796ce4cf2a4323dcf2a73",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604842505953,
+          "stop" : 1604842508247,
+          "duration" : 2294
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "5030e2902ebc33ab",
+        "parentUid" : "2ec93b81540796ce4cf2a4323dcf2a73",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604842517798,
+          "stop" : 1604842518490,
+          "duration" : 692
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "2ec93b81540796ce4cf2a4323dcf2a73"
+    }, {
+      "name" : "14385-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "422142c9083d5835",
+        "parentUid" : "5837838672a8e9ba0f048f016f4d5f20",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604893305593,
+          "stop" : 1604893315585,
+          "duration" : 9992
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "d4e9717b981b5450",
+        "parentUid" : "5837838672a8e9ba0f048f016f4d5f20",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604893216447,
+          "stop" : 1604893219090,
+          "duration" : 2643
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "5837838672a8e9ba0f048f016f4d5f20"
+    }, {
+      "name" : "18223-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "ff7285d85f3472a9",
+        "parentUid" : "d33955cf33e4824017db6f2d1b4a99bb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604921894204,
+          "stop" : 1604921894204,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "43425356ce931a37",
+        "parentUid" : "d33955cf33e4824017db6f2d1b4a99bb",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604921891864,
+          "stop" : 1604921891864,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'browser': 'Chrome', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "d33955cf33e4824017db6f2d1b4a99bb"
+    }, {
+      "name" : "16850-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "85f47c07b4c2feae",
+        "parentUid" : "1d3d21a928aa9c690d8486d7967728e2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604907521027,
+          "stop" : 1604907523509,
+          "duration" : 2482
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "a96e66327ee03cd6",
+        "parentUid" : "1d3d21a928aa9c690d8486d7967728e2",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604907435423,
+          "stop" : 1604907437190,
+          "duration" : 1767
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "1d3d21a928aa9c690d8486d7967728e2"
+    }, {
+      "name" : "18718-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "5a6672967c454dc4",
+        "parentUid" : "faea7896e44047f46f715741ffbc36b2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604922374965,
+          "stop" : 1604922374965,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "3cd9fb62ffbb3894",
+        "parentUid" : "faea7896e44047f46f715741ffbc36b2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604922371494,
+          "stop" : 1604922371494,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'browser': 'Chrome', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "faea7896e44047f46f715741ffbc36b2"
+    }, {
+      "name" : "12014-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "db11503628681ab7",
+        "parentUid" : "c7b0423866d25b67ac0bcab44c172145",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604847295620,
+          "stop" : 1604847302257,
+          "duration" : 6637
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "a75fb62c43642534",
+        "parentUid" : "c7b0423866d25b67ac0bcab44c172145",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604847197848,
+          "stop" : 1604847203440,
+          "duration" : 5592
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "c7b0423866d25b67ac0bcab44c172145"
+    }, {
+      "name" : "18642-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "68ab0fc81bec6cb",
+        "parentUid" : "18807689185d82932221909a4d888742",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604922331708,
+          "stop" : 1604922331708,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "629117f6a7696f03",
+        "parentUid" : "18807689185d82932221909a4d888742",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604922329708,
+          "stop" : 1604922329708,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'browser': 'Chrome', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "18807689185d82932221909a4d888742"
+    }, {
+      "name" : "19926-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "deb0cf351f2a71d9",
+        "parentUid" : "acc87861acaaefb91f4fd95888e950da",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604931165052,
+          "stop" : 1604931165887,
+          "duration" : 835
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'browser': 'Chrome', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "136c9d72f45df177",
+        "parentUid" : "acc87861acaaefb91f4fd95888e950da",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604931396738,
+          "stop" : 1604931423031,
+          "duration" : 26293
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "acc87861acaaefb91f4fd95888e950da"
+    }, {
+      "name" : "35026-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "19baac233e147304",
+        "parentUid" : "775026bf6da4a47a2329627fa7af9f33",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605150007781,
+          "stop" : 1605150009594,
+          "duration" : 1813
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "fb364f2b10147fab",
+        "parentUid" : "775026bf6da4a47a2329627fa7af9f33",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605149995777,
+          "stop" : 1605149997020,
+          "duration" : 1243
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'browser': 'Chrome', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended2]",
+        "uid" : "92cb183c922c184c",
+        "parentUid" : "775026bf6da4a47a2329627fa7af9f33",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605150020766,
+          "stop" : 1605150021432,
+          "duration" : 666
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页搜索框点击', 'cases': [{'method': 'input', 'locator': '//*[@id=\"c-header\"]/div[2]/div[3]/div/input', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/div[2]/div[1]/div[1]', 'value': '外套'}]}" ]
+      } ],
+      "uid" : "775026bf6da4a47a2329627fa7af9f33"
+    }, {
+      "name" : "19734-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "b15829085e8d383b",
+        "parentUid" : "414e8e9b6e12f58c592cc3d303eaf2e7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604931018975,
+          "stop" : 1604931018978,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'browser': 'Chrome', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "9a1a28d873b765dd",
+        "parentUid" : "414e8e9b6e12f58c592cc3d303eaf2e7",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604931104624,
+          "stop" : 1604931104626,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "414e8e9b6e12f58c592cc3d303eaf2e7"
+    }, {
+      "name" : "15567-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "a7dabaee54eaa791",
+        "parentUid" : "b85f903ee9d384ff0927003c780903f5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604904917476,
+          "stop" : 1604904919165,
+          "duration" : 1689
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "e4743f7a7f51b71b",
+        "parentUid" : "b85f903ee9d384ff0927003c780903f5",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604904923107,
+          "stop" : 1604904925397,
+          "duration" : 2290
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "b85f903ee9d384ff0927003c780903f5"
+    }, {
+      "name" : "18499-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "e528a411fd970772",
+        "parentUid" : "b4925491a7a3d30c28671c62bfce0c77",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604922231470,
+          "stop" : 1604922231475,
+          "duration" : 5
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'browser': 'Chrome', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "6d8c9b3d98955335",
+        "parentUid" : "b4925491a7a3d30c28671c62bfce0c77",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604922238648,
+          "stop" : 1604922238650,
+          "duration" : 2
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "b4925491a7a3d30c28671c62bfce0c77"
+    }, {
+      "name" : "11885-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "3bfba35f296d4e9c",
+        "parentUid" : "a1573483e07d4a14c8e9e01c955c709e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604846405514,
+          "stop" : 1604846408359,
+          "duration" : 2845
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "5adbe557875bd0b0",
+        "parentUid" : "a1573483e07d4a14c8e9e01c955c709e",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604846134428,
+          "stop" : 1604846320120,
+          "duration" : 185692
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "a1573483e07d4a14c8e9e01c955c709e"
+    }, {
+      "name" : "35563-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "e406ef42cdfa80bb",
+        "parentUid" : "f65802b83cf904ab1b3ad62ad61470ed",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605161852717,
+          "stop" : 1605161854166,
+          "duration" : 1449
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended2]",
+        "uid" : "4a753e547a7f9900",
+        "parentUid" : "f65802b83cf904ab1b3ad62ad61470ed",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605161858413,
+          "stop" : 1605161859087,
+          "duration" : 674
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页搜索框点击', 'cases': [{'method': 'input', 'locator': '//*[@id=\"c-header\"]/div[2]/div[3]/div/input', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/div[2]/div[1]/div[1]', 'value': '外套'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "315bfa9b913f7052",
+        "parentUid" : "f65802b83cf904ab1b3ad62ad61470ed",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605161848282,
+          "stop" : 1605161849363,
+          "duration" : 1081
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'browser': 'Chrome', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "f65802b83cf904ab1b3ad62ad61470ed"
+    }, {
+      "name" : "15879-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "bea583aa38a7e565",
+        "parentUid" : "ee91a94b6fd75f9fe160c2b55193e13e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604905722118,
+          "stop" : 1604905724219,
+          "duration" : 2101
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "b5d13041b95ccbe5",
+        "parentUid" : "ee91a94b6fd75f9fe160c2b55193e13e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604905815624,
+          "stop" : 1604905817923,
+          "duration" : 2299
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "ee91a94b6fd75f9fe160c2b55193e13e"
+    }, {
+      "name" : "15383-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "446ef6eefd3462cc",
+        "parentUid" : "4c2ac6d74535e74380b3e835d8ee0354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604904338452,
+          "stop" : 1604904417348,
+          "duration" : 78896
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "336ce8cc6e54e2d9",
+        "parentUid" : "4c2ac6d74535e74380b3e835d8ee0354",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604904421392,
+          "stop" : 1604904422414,
+          "duration" : 1022
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "4c2ac6d74535e74380b3e835d8ee0354"
+    }, {
+      "name" : "12316-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "c1756530f44299aa",
+        "parentUid" : "9b7ede0c0c285520f210bdd3b5c9129f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604848681177,
+          "stop" : 1604848696327,
+          "duration" : 15150
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "6ba3a8e932c6951b",
+        "parentUid" : "9b7ede0c0c285520f210bdd3b5c9129f",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604848422910,
+          "stop" : 1604848562231,
+          "duration" : 139321
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "9b7ede0c0c285520f210bdd3b5c9129f"
+    }, {
+      "name" : "10999-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "451952b15aa52f15",
+        "parentUid" : "ee24934236e21c5950663b9baa7ec02c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604842949717,
+          "stop" : 1604843004612,
+          "duration" : 54895
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "b1470c3dea07247",
+        "parentUid" : "ee24934236e21c5950663b9baa7ec02c",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604842863387,
+          "stop" : 1604842865454,
+          "duration" : 2067
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "ee24934236e21c5950663b9baa7ec02c"
+    }, {
+      "name" : "12144-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "9e198f807e6143f",
+        "parentUid" : "4edc3113dae13c13a2acca2f053e2cf2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604848191547,
+          "stop" : 1604848206046,
+          "duration" : 14499
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "4edc3113dae13c13a2acca2f053e2cf2"
+    }, {
+      "name" : "34647-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended2]",
+        "uid" : "5daa550b0679413d",
+        "parentUid" : "d79a03cde5a575818ac703110fadca51",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605149157773,
+          "stop" : 1605149158479,
+          "duration" : 706
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页搜索框点击', 'cases': [{'method': 'input', 'locator': '//*[@id=\"c-header\"]/div[2]/div[3]/div/input', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/div[2]/div[1]/div[1]', 'value': '外套'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "4e5053f57db0d761",
+        "parentUid" : "d79a03cde5a575818ac703110fadca51",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605149150570,
+          "stop" : 1605149153789,
+          "duration" : 3219
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "75c442ed8c660c94",
+        "parentUid" : "d79a03cde5a575818ac703110fadca51",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605148989225,
+          "stop" : 1605149065555,
+          "duration" : 76330
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'browser': 'Chrome', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "d79a03cde5a575818ac703110fadca51"
+    }, {
+      "name" : "11496-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "a24cb04f5057cf40",
+        "parentUid" : "cab039082c65a9f7ee0cc6ffd8648aaa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604844422527,
+          "stop" : 1604844426181,
+          "duration" : 3654
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "d207a84711e00c28",
+        "parentUid" : "cab039082c65a9f7ee0cc6ffd8648aaa",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604844511231,
+          "stop" : 1604844514872,
+          "duration" : 3641
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "cab039082c65a9f7ee0cc6ffd8648aaa"
+    }, {
+      "name" : "18047-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "9d4e15de605783b6",
+        "parentUid" : "05d47e8be535d6396d655da4aa790119",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604921629841,
+          "stop" : 1604921629841,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'browser': 'Chrome', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "e4c270e643bc8f1",
+        "parentUid" : "05d47e8be535d6396d655da4aa790119",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604921634173,
+          "stop" : 1604921634173,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "05d47e8be535d6396d655da4aa790119"
+    }, {
+      "name" : "19239-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "510f6202dc223055",
+        "parentUid" : "ffee757a0677a4732801bceb9dcb6c14",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604923812862,
+          "stop" : 1604923812863,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "b5b30f4f3bf89d3",
+        "parentUid" : "ffee757a0677a4732801bceb9dcb6c14",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604923809132,
+          "stop" : 1604923809135,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'browser': 'Chrome', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "ffee757a0677a4732801bceb9dcb6c14"
+    }, {
+      "name" : "15652-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "ab2de7057eadd787",
+        "parentUid" : "4434aca58ba08ff4e303dee0e2588703",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604905048685,
+          "stop" : 1604905049250,
+          "duration" : 565
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "8f2cf9a971f35b4e",
+        "parentUid" : "4434aca58ba08ff4e303dee0e2588703",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604905130175,
+          "stop" : 1604905132898,
+          "duration" : 2723
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "4434aca58ba08ff4e303dee0e2588703"
+    }, {
+      "name" : "14543-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "cb3d767ced7b8cdc",
+        "parentUid" : "9d54d62c5111a5d25fac4456c632c13f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604894364222,
+          "stop" : 1604894449904,
+          "duration" : 85682
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "547b649b46949ea",
+        "parentUid" : "9d54d62c5111a5d25fac4456c632c13f",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604894273990,
+          "stop" : 1604894274582,
+          "duration" : 592
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "9d54d62c5111a5d25fac4456c632c13f"
+    }, {
+      "name" : "11712-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "c83a266b0060fbb8",
+        "parentUid" : "2818d9cd27119fe2bbfb399e5bed9344",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604845372349,
+          "stop" : 1604845374673,
+          "duration" : 2324
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "e54e7ec09d1d233e",
+        "parentUid" : "2818d9cd27119fe2bbfb399e5bed9344",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604845379875,
+          "stop" : 1604845380460,
+          "duration" : 585
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "2818d9cd27119fe2bbfb399e5bed9344"
+    }, {
+      "name" : "15165-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "c1f58ea2eb538ba8",
+        "parentUid" : "bc5172c1e16f57528c4e424d0c0ac302",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604903568510,
+          "stop" : 1604903578324,
+          "duration" : 9814
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "2c784120ffa4a72b",
+        "parentUid" : "bc5172c1e16f57528c4e424d0c0ac302",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604903662310,
+          "stop" : 1604903749953,
+          "duration" : 87643
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "bc5172c1e16f57528c4e424d0c0ac302"
+    }, {
+      "name" : "13424-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "8dc8889cd0f50bf",
+        "parentUid" : "0b0890f0ba33af6fb32b6d72a27a8d5e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604887643191,
+          "stop" : 1604887647446,
+          "duration" : 4255
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "4c34107e853a30e2",
+        "parentUid" : "0b0890f0ba33af6fb32b6d72a27a8d5e",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604887480226,
+          "stop" : 1604887559872,
+          "duration" : 79646
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "0b0890f0ba33af6fb32b6d72a27a8d5e"
+    }, {
+      "name" : "14296-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "5174c2879ad2bc93",
+        "parentUid" : "0716ca6e54f129c64e606dbf6e9920d3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604893112090,
+          "stop" : 1604893115453,
+          "duration" : 3363
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "d34f097888ad2213",
+        "parentUid" : "0716ca6e54f129c64e606dbf6e9920d3",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604893120351,
+          "stop" : 1604893124689,
+          "duration" : 4338
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "0716ca6e54f129c64e606dbf6e9920d3"
+    }, {
+      "name" : "15471-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "fff4850d0e72a104",
+        "parentUid" : "bee526758e955a2f2fe02817ba7074e4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604904565021,
+          "stop" : 1604904565834,
+          "duration" : 813
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "24d517eb05ee06f6",
+        "parentUid" : "bee526758e955a2f2fe02817ba7074e4",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604904649218,
+          "stop" : 1604904651696,
+          "duration" : 2478
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "bee526758e955a2f2fe02817ba7074e4"
+    }, {
+      "name" : "15022-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "12fe874fb78537ef",
+        "parentUid" : "199e6403fab801af96b5c0e9906bebf0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604903164244,
+          "stop" : 1604903165002,
+          "duration" : 758
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "f7f98f660a821856",
+        "parentUid" : "199e6403fab801af96b5c0e9906bebf0",
+        "status" : "passed",
+        "time" : {
+          "start" : 1604903153545,
+          "stop" : 1604903158210,
+          "duration" : 4665
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "199e6403fab801af96b5c0e9906bebf0"
+    }, {
+      "name" : "19642-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "9174ffd26ab57b92",
+        "parentUid" : "720b1dd607a1d11752fbf5b38e13f7ca",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604930845050,
+          "stop" : 1604930845053,
+          "duration" : 3
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'browser': 'Chrome', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "720b1dd607a1d11752fbf5b38e13f7ca"
+    }, {
+      "name" : "11784-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "3a3975afce0306de",
+        "parentUid" : "49f91ea8d26f34ee1c023b3175135052",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604845553287,
+          "stop" : 1604845555794,
+          "duration" : 2507
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "81e8ba39a6382f0a",
+        "parentUid" : "49f91ea8d26f34ee1c023b3175135052",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604845674024,
+          "stop" : 1604845823626,
+          "duration" : 149602
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "49f91ea8d26f34ee1c023b3175135052"
+    }, {
+      "name" : "11643-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "2957d3c45e07eb56",
+        "parentUid" : "807506c2145e864234213f3978be59ab",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604845163151,
+          "stop" : 1604845163151,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "807506c2145e864234213f3978be59ab"
+    }, {
+      "name" : "14649-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "b6afeaf31a78470",
+        "parentUid" : "4c8f3753cbf44c9b301d826b82b40976",
+        "status" : "failed",
+        "time" : {
+          "start" : 1604894766311,
+          "stop" : 1604894768307,
+          "duration" : 1996
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "113964d9c01bdd6",
+        "parentUid" : "4c8f3753cbf44c9b301d826b82b40976",
+        "status" : "failed",
+        "time" : {
+          "start" : 1604894772874,
+          "stop" : 1604894849432,
+          "duration" : 76558
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "4c8f3753cbf44c9b301d826b82b40976"
+    }, {
+      "name" : "13271-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "944c462fece81666",
+        "parentUid" : "12a96e52e726c2f9235bad0e2dea703b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604886414221,
+          "stop" : 1604886432105,
+          "duration" : 17884
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "e072dc109b4801b4",
+        "parentUid" : "12a96e52e726c2f9235bad0e2dea703b",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604886514945,
+          "stop" : 1604886516903,
+          "duration" : 1958
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "12a96e52e726c2f9235bad0e2dea703b"
+    }, {
+      "name" : "17985-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "cee0b7eb6a7d39a5",
+        "parentUid" : "5e9b0bea3f077a582c0b57c8cfa4862a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604921568767,
+          "stop" : 1604921568767,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'browser': 'Chrome', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "4cd3c287d870e3fb",
+        "parentUid" : "5e9b0bea3f077a582c0b57c8cfa4862a",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604921568820,
+          "stop" : 1604921568820,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "5e9b0bea3f077a582c0b57c8cfa4862a"
+    }, {
+      "name" : "12241-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "b7697eb8e508a9ea",
+        "parentUid" : "377446e2f795e29745ab0ca17c310409",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604848264411,
+          "stop" : 1604848265057,
+          "duration" : 646
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "636f3c8e0837769e",
+        "parentUid" : "377446e2f795e29745ab0ca17c310409",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604848246954,
+          "stop" : 1604848258069,
+          "duration" : 11115
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "377446e2f795e29745ab0ca17c310409"
+    }, {
+      "name" : "13613-MainThread",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "50cfe2701acb2689",
+        "parentUid" : "88337a8efdde6594dac9e25126820dc2",
+        "status" : "broken",
+        "time" : {
+          "start" : 1604889266879,
+          "stop" : 1604889268277,
+          "duration" : 1398
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      } ],
+      "uid" : "88337a8efdde6594dac9e25126820dc2"
+    } ],
+    "uid" : "237b76a875c327d142ae1b86cc6c6d06"
+  } ]
+}

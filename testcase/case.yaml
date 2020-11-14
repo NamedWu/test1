@@ -1,0 +1,44 @@
+# 用例模版，
+# method：用例操作（input ，click，get_url.....）
+# locator： 元素定位值
+# type：元素定位方法（1:Xpath，2：css_selator, 3......)
+# next_page_element: 用例成功执行后跳转页面元素定位 Xpath
+# value: 输入框输入值，只有input时需要传入值，其余为None
+homepage:
+  -
+    title: 首页recommend按钮点击
+    browser: Chrome
+    cases:
+      -
+        method: click
+        locator: //*[@id="c-header"]/div[2]/div[4]/ul/li[1]/a/span
+        type: 1
+        new_page_ele: //*[@id="lang-en"]/div[1]/div[2]/div/p/span/a/span
+        value: None
+  -
+    title: 首页baby按钮点击
+    cases:
+      -
+        method: click
+        locator: //*[@id="c-header"]/div[2]/div[4]/ul/li[2]/a/span
+        type: 1
+        new_page_ele: //*[@id="lang-en"]/div[1]/div[2]/div/p/span/a/span
+        value: None
+  -
+    title: 首页搜索框点击
+    cases:
+      -
+        method: input
+        locator: //*[@id="c-header"]/div[2]/div[3]/div/input
+        type: 1
+        new_page_ele: //*[@id="lang-en"]/div[1]/div[2]/div/div[2]/div[1]/div[1]
+        value: 外套
+
+
+
+
+
+
+
+
+

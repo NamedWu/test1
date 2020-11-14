@@ -1,0 +1,109 @@
+{
+  "uid" : "ac91fb4cb79b817f",
+  "name" : "test01_recommended[recommended0]",
+  "fullName" : "test01_home_tab.Test_home_tab#test01_recommended",
+  "historyId" : "8917d4b5fd757d9c9907865460bc0e5b",
+  "time" : {
+    "start" : 1605098271585,
+    "stop" : 1605098272459,
+    "duration" : 874
+  },
+  "description" : "\n        测试按钮recommended按钮点击\n        :param recommended:\n        :return:\n        ",
+  "descriptionHtml" : "<pre><code>    测试按钮recommended按钮点击\n    :param recommended:\n    :return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "\n        测试按钮recommended按钮点击\n        :param recommended:\n        :return:\n        ",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "读取完用例，开始执行",
+      "time" : {
+        "start" : 1605098271586,
+        "stop" : 1605098272459,
+        "duration" : 873
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "关闭浏览器",
+      "time" : {
+        "start" : 1605098272460,
+        "stop" : 1605098272581,
+        "duration" : 121
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "275699c2981416d2",
+      "name" : "log",
+      "source" : "275699c2981416d2.txt",
+      "type" : "text/plain",
+      "size" : 789
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 2,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "story",
+    "value" : "recommended按钮点击"
+  }, {
+    "name" : "feature",
+    "value" : "首页tab点击"
+  }, {
+    "name" : "suite",
+    "value" : "test01_home_tab"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_home_tab"
+  }, {
+    "name" : "host",
+    "value" : "xiaotaozidembp"
+  }, {
+    "name" : "thread",
+    "value" : "32709-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test01_home_tab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "recommended",
+    "value" : "{'title': '首页recommend按钮点击', 'browser': 'Chrome', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ac91fb4cb79b817f.json",
+  "parameterValues" : [ "{'title': '首页recommend按钮点击', 'browser': 'Chrome', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+}

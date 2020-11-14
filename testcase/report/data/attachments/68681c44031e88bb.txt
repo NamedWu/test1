@@ -1,0 +1,2 @@
+INFO     testcase.test01_home_tab:test01_home_tab.py:16 打开浏览器，打开网址
+INFO     testcase.test01_home_tab:test01_home_tab.py:39 关闭浏览器

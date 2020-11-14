@@ -1,0 +1,83 @@
+{
+  "uid" : "ff7285d85f3472a9",
+  "name" : "test01_recommended[recommended1]",
+  "fullName" : "test01_home_tab.Test_home_tab#test01_recommended",
+  "historyId" : "6f98b6a8d3126e4c13a46e44fd9f73b6",
+  "time" : {
+    "start" : 1604921894204,
+    "stop" : 1604921894204,
+    "duration" : 0
+  },
+  "description" : "\n        测试按钮recommended按钮点击\n        :param recommended:\n        :return:\n        ",
+  "descriptionHtml" : "<pre><code>    测试按钮recommended按钮点击\n    :param recommended:\n    :return:\n</code></pre>\n",
+  "status" : "broken",
+  "statusMessage" : "AttributeError: 'driver_tools' object has no attribute 'get'",
+  "statusTrace" : "self = <testcase.test01_home_tab.Test_home_tab object at 0x10e3edd30>\n\n    def setup(self):\n        \"\"\"\"\n        构造函数，实例化变量\n        \"\"\"\n        self.web = driver_tools()\n        self.web.open_browser()\n        self.driver = base_tools()\n>       self.driver.get_url('https://www.hibobi.com/')\n\ntest01_home_tab.py:17: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \n\nself = <web_test.public_tools.base_tools.base_tools object at 0x10e36a460>\nurl = 'https://www.hibobi.com/'\n\n    def get_url(self, url=None):\n        \"\"\"\n        打开浏览器\n        :param url:网站地址\n        :return:\n        \"\"\"\n        log.info('打开网址')\n>       self.driver.get(url)\nE       AttributeError: 'driver_tools' object has no attribute 'get'\n\n../public_tools/base_tools.py:24: AttributeError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "\n        测试按钮recommended按钮点击\n        :param recommended:\n        :return:\n        ",
+    "status" : "broken",
+    "statusMessage" : "AttributeError: 'driver_tools' object has no attribute 'get'",
+    "statusTrace" : "self = <testcase.test01_home_tab.Test_home_tab object at 0x10e3edd30>\n\n    def setup(self):\n        \"\"\"\"\n        构造函数，实例化变量\n        \"\"\"\n        self.web = driver_tools()\n        self.web.open_browser()\n        self.driver = base_tools()\n>       self.driver.get_url('https://www.hibobi.com/')\n\ntest01_home_tab.py:17: \n_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ \n\nself = <web_test.public_tools.base_tools.base_tools object at 0x10e36a460>\nurl = 'https://www.hibobi.com/'\n\n    def get_url(self, url=None):\n        \"\"\"\n        打开浏览器\n        :param url:网站地址\n        :return:\n        \"\"\"\n        log.info('打开网址')\n>       self.driver.get(url)\nE       AttributeError: 'driver_tools' object has no attribute 'get'\n\n../public_tools/base_tools.py:24: AttributeError",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "b6bfb0e8abcd8d42",
+      "name" : "log",
+      "source" : "b6bfb0e8abcd8d42.txt",
+      "type" : "text/plain",
+      "size" : 148
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : true,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "首页tab点击"
+  }, {
+    "name" : "story",
+    "value" : "recommended按钮点击"
+  }, {
+    "name" : "suite",
+    "value" : "test01_home_tab"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_home_tab"
+  }, {
+    "name" : "host",
+    "value" : "xiaotaozidembp"
+  }, {
+    "name" : "thread",
+    "value" : "18223-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test01_home_tab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "recommended",
+    "value" : "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "ff7285d85f3472a9.json",
+  "parameterValues" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+}

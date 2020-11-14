@@ -1,0 +1,570 @@
+{
+  "uid" : "e406ef42cdfa80bb",
+  "name" : "test01_recommended[recommended1]",
+  "fullName" : "test01_home_tab.Test_home_tab#test01_recommended",
+  "historyId" : "6f98b6a8d3126e4c13a46e44fd9f73b6",
+  "time" : {
+    "start" : 1605161852717,
+    "stop" : 1605161854166,
+    "duration" : 1449
+  },
+  "description" : "\n        测试按钮recommended按钮点击\n        :param recommended:\n        :return:\n        ",
+  "descriptionHtml" : "<pre><code>    测试按钮recommended按钮点击\n    :param recommended:\n    :return:\n</code></pre>\n",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "description" : "\n        测试按钮recommended按钮点击\n        :param recommended:\n        :return:\n        ",
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "读取完用例，开始执行",
+      "time" : {
+        "start" : 1605161852717,
+        "stop" : 1605161854166,
+        "duration" : 1449
+      },
+      "status" : "passed",
+      "steps" : [ {
+        "name" : "截图并保存",
+        "time" : {
+          "start" : 1605161853399,
+          "stop" : 1605161854166,
+          "duration" : 767
+        },
+        "status" : "passed",
+        "steps" : [ ],
+        "attachments" : [ {
+          "uid" : "2164890907e82a33",
+          "name" : "用例截图",
+          "source" : "2164890907e82a33.png",
+          "type" : "image/png",
+          "size" : 184664
+        } ],
+        "parameters" : [ ],
+        "stepsCount" : 0,
+        "attachmentsCount" : 1,
+        "shouldDisplayMessage" : false,
+        "hasContent" : true
+      } ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 1,
+      "attachmentsCount" : 1,
+      "shouldDisplayMessage" : false,
+      "hasContent" : true
+    }, {
+      "name" : "关闭浏览器",
+      "time" : {
+        "start" : 1605161854167,
+        "stop" : 1605161854292,
+        "duration" : 125
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ {
+      "uid" : "ee983b4a9aa5a9ce",
+      "name" : "log",
+      "source" : "ee983b4a9aa5a9ce.txt",
+      "type" : "text/plain",
+      "size" : 865
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 3,
+    "attachmentsCount" : 2,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "首页tab点击"
+  }, {
+    "name" : "story",
+    "value" : "recommended按钮点击"
+  }, {
+    "name" : "suite",
+    "value" : "test01_home_tab"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_home_tab"
+  }, {
+    "name" : "host",
+    "value" : "xiaotaozidembp"
+  }, {
+    "name" : "thread",
+    "value" : "35563-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test01_home_tab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "recommended",
+    "value" : "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f88237ab6cd75cf1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605150122130,
+        "stop" : 1605150127117,
+        "duration" : 4987
+      }
+    }, {
+      "uid" : "19baac233e147304",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605150007781,
+        "stop" : 1605150009594,
+        "duration" : 1813
+      }
+    }, {
+      "uid" : "892116a3a725c5cd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605149888483,
+        "stop" : 1605149892696,
+        "duration" : 4213
+      }
+    }, {
+      "uid" : "4e5053f57db0d761",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605149150570,
+        "stop" : 1605149153789,
+        "duration" : 3219
+      }
+    }, {
+      "uid" : "271d83f5b0b8afcd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605099727070,
+        "stop" : 1605099729658,
+        "duration" : 2588
+      }
+    }, {
+      "uid" : "38380b2b08dec306",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605099419858,
+        "stop" : 1605099423728,
+        "duration" : 3870
+      }
+    }, {
+      "uid" : "48590ac3af438124",
+      "status" : "passed",
+      "time" : {
+        "start" : 1605098285342,
+        "stop" : 1605098288822,
+        "duration" : 3480
+      }
+    }, {
+      "uid" : "136c9d72f45df177",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604931396738,
+        "stop" : 1604931423031,
+        "duration" : 26293
+      }
+    }, {
+      "uid" : "9a1a28d873b765dd",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'WebDriver' object has no attribute 'click'",
+      "time" : {
+        "start" : 1604931104624,
+        "stop" : 1604931104626,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "6860bbe12adc7201",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'click'",
+      "time" : {
+        "start" : 1604924120720,
+        "stop" : 1604924120722,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "510f6202dc223055",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'click'",
+      "time" : {
+        "start" : 1604923812862,
+        "stop" : 1604923812863,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "a86b6776b5fd00cc",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'click'",
+      "time" : {
+        "start" : 1604923535678,
+        "stop" : 1604923535679,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "2f58866318c4ecc9",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'click'",
+      "time" : {
+        "start" : 1604922560925,
+        "stop" : 1604922560936,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "c0eea98ea95888a3",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'case_read' object has no attribute 'click'",
+      "time" : {
+        "start" : 1604922403411,
+        "stop" : 1604922403412,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "5a6672967c454dc4",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'Test_home_tab' object has no attribute 'run'",
+      "time" : {
+        "start" : 1604922374965,
+        "stop" : 1604922374965,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "68ab0fc81bec6cb",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'WebDriver' object has no attribute 'get_url'",
+      "time" : {
+        "start" : 1604922331708,
+        "stop" : 1604922331708,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "6d8c9b3d98955335",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'case_read' object has no attribute 'click'",
+      "time" : {
+        "start" : 1604922238648,
+        "stop" : 1604922238650,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "ff7285d85f3472a9",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'driver_tools' object has no attribute 'get'",
+      "time" : {
+        "start" : 1604921894204,
+        "stop" : 1604921894204,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "e4c270e643bc8f1",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'NoneType' object has no attribute 'get'",
+      "time" : {
+        "start" : 1604921634173,
+        "stop" : 1604921634173,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "4cd3c287d870e3fb",
+      "status" : "broken",
+      "statusDetails" : "TypeError: find_case_browser() missing 1 required positional argument: 'recommended'",
+      "time" : {
+        "start" : 1604921568820,
+        "stop" : 1604921568820,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "85f47c07b4c2feae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604907521027,
+        "stop" : 1604907523509,
+        "duration" : 2482
+      }
+    }, {
+      "uid" : "8ab449faa778e2ec",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604907048892,
+        "stop" : 1604907058598,
+        "duration" : 9706
+      }
+    }, {
+      "uid" : "a1a53c7cb5bd7ff1",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604906531020,
+        "stop" : 1604906532654,
+        "duration" : 1634
+      }
+    }, {
+      "uid" : "3941a234ba0a5b09",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604906237126,
+        "stop" : 1604906238944,
+        "duration" : 1818
+      }
+    }, {
+      "uid" : "b5d13041b95ccbe5",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604905815624,
+        "stop" : 1604905817923,
+        "duration" : 2299
+      }
+    }, {
+      "uid" : "8f2cf9a971f35b4e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604905130175,
+        "stop" : 1604905132898,
+        "duration" : 2723
+      }
+    }, {
+      "uid" : "e4743f7a7f51b71b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604904923107,
+        "stop" : 1604904925397,
+        "duration" : 2290
+      }
+    }, {
+      "uid" : "24d517eb05ee06f6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604904649218,
+        "stop" : 1604904651696,
+        "duration" : 2478
+      }
+    }, {
+      "uid" : "336ce8cc6e54e2d9",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604904421392,
+        "stop" : 1604904422414,
+        "duration" : 1022
+      }
+    }, {
+      "uid" : "2c784120ffa4a72b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604903662310,
+        "stop" : 1604903749953,
+        "duration" : 87643
+      }
+    }, {
+      "uid" : "12fe874fb78537ef",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604903164244,
+        "stop" : 1604903165002,
+        "duration" : 758
+      }
+    }, {
+      "uid" : "113964d9c01bdd6",
+      "status" : "failed",
+      "statusDetails" : "AssertionError: assert 1 == 0",
+      "time" : {
+        "start" : 1604894772874,
+        "stop" : 1604894849432,
+        "duration" : 76558
+      }
+    }, {
+      "uid" : "cb3d767ced7b8cdc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604894364222,
+        "stop" : 1604894449904,
+        "duration" : 85682
+      }
+    }, {
+      "uid" : "422142c9083d5835",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604893305593,
+        "stop" : 1604893315585,
+        "duration" : 9992
+      }
+    }, {
+      "uid" : "d34f097888ad2213",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604893120351,
+        "stop" : 1604893124689,
+        "duration" : 4338
+      }
+    }, {
+      "uid" : "63050a5c2a97cbe2",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604892701959,
+        "stop" : 1604892704055,
+        "duration" : 2096
+      }
+    }, {
+      "uid" : "86543b8afbd51231",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604889516905,
+        "stop" : 1604889518573,
+        "duration" : 1668
+      }
+    }, {
+      "uid" : "8dc8889cd0f50bf",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604887643191,
+        "stop" : 1604887647446,
+        "duration" : 4255
+      }
+    }, {
+      "uid" : "e072dc109b4801b4",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '/Users/xiaotaozi/Downloads/\\\\(1\\\\).png'",
+      "time" : {
+        "start" : 1604886514945,
+        "stop" : 1604886516903,
+        "duration" : 1958
+      }
+    }, {
+      "uid" : "c1756530f44299aa",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '/Users/xiaotaozi/Downloads/\\\\(1\\\\).png'",
+      "time" : {
+        "start" : 1604848681177,
+        "stop" : 1604848696327,
+        "duration" : 15150
+      }
+    }, {
+      "uid" : "b7697eb8e508a9ea",
+      "status" : "broken",
+      "statusDetails" : "FileNotFoundError: [Errno 2] No such file or directory: '/Users/xiaotaozi/Downloads/\\\\(1\\\\).png'",
+      "time" : {
+        "start" : 1604848264411,
+        "stop" : 1604848265057,
+        "duration" : 646
+      }
+    }, {
+      "uid" : "db11503628681ab7",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: info",
+      "time" : {
+        "start" : 1604847295620,
+        "stop" : 1604847302257,
+        "duration" : 6637
+      }
+    }, {
+      "uid" : "3bfba35f296d4e9c",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'WebKeys' object has no attribute 'save_scree_image'",
+      "time" : {
+        "start" : 1604846405514,
+        "stop" : 1604846408359,
+        "duration" : 2845
+      }
+    }, {
+      "uid" : "81e8ba39a6382f0a",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'WebKeys' object has no attribute 'save_scree_image'",
+      "time" : {
+        "start" : 1604845674024,
+        "stop" : 1604845823626,
+        "duration" : 149602
+      }
+    }, {
+      "uid" : "e54e7ec09d1d233e",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'pic_deal' object has no attribute 'capture_screenshot'",
+      "time" : {
+        "start" : 1604845379875,
+        "stop" : 1604845380460,
+        "duration" : 585
+      }
+    }, {
+      "uid" : "d207a84711e00c28",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604844511231,
+        "stop" : 1604844514872,
+        "duration" : 3641
+      }
+    }, {
+      "uid" : "1c062fc504722390",
+      "status" : "broken",
+      "statusDetails" : "TypeError: capture_screenshot() missing 1 required positional argument: 'driver'",
+      "time" : {
+        "start" : 1604844232192,
+        "stop" : 1604844234462,
+        "duration" : 2270
+      }
+    }, {
+      "uid" : "451952b15aa52f15",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604842949717,
+        "stop" : 1604843004612,
+        "duration" : 54895
+      }
+    }, {
+      "uid" : "5030e2902ebc33ab",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604842517798,
+        "stop" : 1604842518490,
+        "duration" : 692
+      }
+    }, {
+      "uid" : "f81bc6a21e20d84",
+      "status" : "broken",
+      "statusDetails" : "AttributeError: 'Test_home_tab' object has no attribute 'web'",
+      "time" : {
+        "start" : 1604842463914,
+        "stop" : 1604842463914,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "197c46ffe6ccd7dd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604841502256,
+        "stop" : 1604841502787,
+        "duration" : 531
+      }
+    }, {
+      "uid" : "6e05bbb060e2bca6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1604841002281,
+        "stop" : 1604841004614,
+        "duration" : 2333
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e406ef42cdfa80bb.json",
+  "parameterValues" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+}

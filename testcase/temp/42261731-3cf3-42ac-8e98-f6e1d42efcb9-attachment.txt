@@ -1,0 +1,2 @@
+INFO     web_test.public_tools.driver_tool:driver_tool.py:23 打开浏览器
+INFO     web_test.public_tools.base_tools:base_tools.py:23 打开网址

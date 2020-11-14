@@ -1,0 +1,16 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Thu Nov 12 14:17:32 CST 2020","Thu Nov 12 14:17:34 CST 2020","1449","","test01_home_tab","Test_home_tab","","","test01_recommended[recommended1]","
+        测试按钮recommended按钮点击
+        :param recommended:
+        :return:
+        "
+"passed","Thu Nov 12 14:17:28 CST 2020","Thu Nov 12 14:17:29 CST 2020","1081","","test01_home_tab","Test_home_tab","","","test01_recommended[recommended0]","
+        测试按钮recommended按钮点击
+        :param recommended:
+        :return:
+        "
+"passed","Thu Nov 12 14:17:38 CST 2020","Thu Nov 12 14:17:39 CST 2020","674","","test01_home_tab","Test_home_tab","","","test01_recommended[recommended2]","
+        测试按钮recommended按钮点击
+        :param recommended:
+        :return:
+        "

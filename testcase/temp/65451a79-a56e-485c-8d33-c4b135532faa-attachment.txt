@@ -1,0 +1,6 @@
+INFO     web_test.public_tools.driver_tool:driver_tool.py:23 打开浏览器
+INFO     web_test.public_tools.base_tools:base_tools.py:22 打开网址
+INFO     web_test.public_tools.read_cases:read_cases.py:16 读取用例中的cases
+INFO     web_test.public_tools.read_cases:read_cases.py:51 执行单个用例
+INFO     web_test.public_tools.read_cases:read_cases.py:61 读取用例操作，并进行相应操作
+INFO     web_test.public_tools.base_tools:base_tools.py:83 关闭浏览器

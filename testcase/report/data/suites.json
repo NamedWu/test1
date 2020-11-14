@@ -1,0 +1,52 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test01_home_tab",
+    "children" : [ {
+      "name" : "Test_home_tab",
+      "children" : [ {
+        "name" : "test01_recommended[recommended0]",
+        "uid" : "315bfa9b913f7052",
+        "parentUid" : "82484a3638b62c934bad56cd30ee1e13",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605161848282,
+          "stop" : 1605161849363,
+          "duration" : 1081
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页recommend按钮点击', 'browser': 'Chrome', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended1]",
+        "uid" : "e406ef42cdfa80bb",
+        "parentUid" : "82484a3638b62c934bad56cd30ee1e13",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605161852717,
+          "stop" : 1605161854166,
+          "duration" : 1449
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页baby按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[2]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+      }, {
+        "name" : "test01_recommended[recommended2]",
+        "uid" : "4a753e547a7f9900",
+        "parentUid" : "82484a3638b62c934bad56cd30ee1e13",
+        "status" : "passed",
+        "time" : {
+          "start" : 1605161858413,
+          "stop" : 1605161859087,
+          "duration" : 674
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "{'title': '首页搜索框点击', 'cases': [{'method': 'input', 'locator': '//*[@id=\"c-header\"]/div[2]/div[3]/div/input', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/div[2]/div[1]/div[1]', 'value': '外套'}]}" ]
+      } ],
+      "uid" : "82484a3638b62c934bad56cd30ee1e13"
+    } ],
+    "uid" : "6eaa43b853b268195ec8062b07fb494b"
+  } ]
+}

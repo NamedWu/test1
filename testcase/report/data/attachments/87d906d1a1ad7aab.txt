@@ -1,0 +1,5 @@
+INFO     web_test.public_tools.read_cases:read_cases.py:20 读取用例中的cases
+INFO     web_test.public_tools.read_cases:read_cases.py:55 执行单个用例
+INFO     web_test.public_tools.read_cases:read_cases.py:65 读取用例操作，并进行相应操作
+INFO     web_test.public_tools.base_tools:base_tools.py:86 元素点击
+INFO     web_test.public_tools.base_tools:base_tools.py:55 元素定位

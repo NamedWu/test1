@@ -1,0 +1,11 @@
+INFO     web_test.public_tools.base_tools:base_tools.py:30 打开浏览器
+INFO     web_test.public_tools.base_tools:base_tools.py:49 打开网址
+INFO     web_test.public_tools.base_tools:base_tools.py:179 读取用例中的cases
+INFO     web_test.public_tools.base_tools:base_tools.py:214 执行单个用例
+INFO     web_test.public_tools.base_tools:base_tools.py:224 读取用例操作，并进行相应操作
+INFO     web_test.public_tools.base_tools:base_tools.py:90 元素点击
+INFO     web_test.public_tools.base_tools:base_tools.py:59 元素定位
+INFO     web_test.public_tools.base_tools:base_tools.py:120 判断元素是否存在
+INFO     web_test.public_tools.base_tools:base_tools.py:59 元素定位
+INFO     web_test.public_tools.base_tools:base_tools.py:136 截图并保存
+INFO     web_test.public_tools.base_tools:base_tools.py:110 关闭浏览器

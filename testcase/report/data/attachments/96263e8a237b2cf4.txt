@@ -1,0 +1,4 @@
+INFO     web_test.public_tools.base_tools:base_tools.py:25 打开浏览器
+INFO     web_test.public_tools.base_tools:base_tools.py:44 打开网址
+INFO     web_test.public_tools.base_tools:base_tools.py:155 读取用例中的cases
+INFO     web_test.public_tools.base_tools:base_tools.py:105 关闭浏览器

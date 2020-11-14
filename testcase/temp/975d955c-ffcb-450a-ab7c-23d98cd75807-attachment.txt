@@ -1,0 +1,3 @@
+INFO     web_test.public_tools.read_cases:read_cases.py:16 读取用例中的cases
+INFO     web_test.public_tools.read_cases:read_cases.py:51 执行单个用例
+INFO     web_test.public_tools.read_cases:read_cases.py:61 读取用例操作，并进行相应操作

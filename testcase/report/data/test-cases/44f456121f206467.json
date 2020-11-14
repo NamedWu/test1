@@ -1,0 +1,60 @@
+{
+  "uid" : "44f456121f206467",
+  "name" : "test01_recommended[recommended0]",
+  "fullName" : "test01_home_tab.Test_home_tab#test01_recommended",
+  "historyId" : "8917d4b5fd757d9c9907865460bc0e5b",
+  "time" : {
+    "start" : 1604840916181,
+    "stop" : 1604840918445,
+    "duration" : 2264
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "首页tab点击"
+  }, {
+    "name" : "story",
+    "value" : "recommended按钮点击"
+  }, {
+    "name" : "suite",
+    "value" : "test01_home_tab"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_home_tab"
+  }, {
+    "name" : "host",
+    "value" : "xiaotaozidembp"
+  }, {
+    "name" : "thread",
+    "value" : "10615-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test01_home_tab"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "recommended",
+    "value" : "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "44f456121f206467.json",
+  "parameterValues" : [ "{'title': '首页recommend按钮点击', 'cases': [{'method': 'click', 'locator': '//*[@id=\"c-header\"]/div[2]/div[4]/ul/li[1]/a/span', 'type': 1, 'new_page_ele': '//*[@id=\"lang-en\"]/div[1]/div[2]/div/p/span/a/span', 'value': 'None'}]}" ]
+}
